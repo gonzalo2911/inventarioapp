@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853353268098",
+    "project_id": "inventarioapp-bcaf9",
+    "storage_bucket": "inventarioapp-bcaf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853353268098:android:071654fb6b83867bbe059b",
+        "android_client_info": {
+          "package_name": "com.inventario.inventarioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853353268098-mujcso3cktgi7g44vssur2caea3opnh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhBXCR_2b6OE8NwIgtgS9J-gaZ9_WXMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853353268098-mujcso3cktgi7g44vssur2caea3opnh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
